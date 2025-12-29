@@ -56,7 +56,6 @@ This system provides an accurate, secure, and automated attendance solution.
 
 ## 🛠️ Technologies Used
 - **Backend:** PHP
-- **Framework:** Laravel
 - **Database:** MySQL
 - **Frontend:** HTML, CSS
 - **Geolocation:** Browser Geolocation API
@@ -83,4 +82,4 @@ This system provides an accurate, secure, and automated attendance solution.
 ## 👨‍💻 Developer
 **Ahmed Yasser**  
 Backend Developer (PHP & MySQL)  
-Laravel Learner
+
